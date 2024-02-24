@@ -15,3 +15,8 @@ Some might also find similarities with a certain beverage, implying an energy bo
 
 In addition to the public repositories found in the Blazorade organization on Github, the following libraries are in various early planning or development phases. If you have special interest in any of these, and maybe want to get involved in the development work, please don't hesitate to get in touch. Maybe that's just the nudge we need to get the development work going.
 
+- **Blazorade Stripe** - A library for adding credit card payments to your Blazor application by integrating with [stripe.com](https://stripe.com/), one of the biggest online payment processing companies on the Internet.
+- **Blazorade ChartJS** - A library for adding charts to your Blazor application using [Chart.js](https://www.chartjs.org/), a popular JavaScript charting library.
+- **Blazorade Mermaid** - A library for adding diagrams to your Blazor application using [Mermaid](https://mermaid.js.org/).
+- **Blazorade HighlightJS** - A library for adding syntax highlighting to your Blazor application using [highlight.js](https://highlightjs.org/). Especially useful if your application renders source code in for instance blog or documentation sites.
+- **Blazorade Publisher** - A set of libraries for simple content management scenarios with Blazor applications are front-ends. The initial version is planned to focus on creating sites that are mainly documentational, and where the content is mainly [Markdown](https://en.wikipedia.org/wiki/Markdown) documents.
