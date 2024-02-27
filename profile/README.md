@@ -5,9 +5,9 @@
 ## Blazorade - The Name
 
 The name **Blazorade** is a [blend word](https://en.wikipedia.org/wiki/Blend_word), a _portmanteau_, built mainly from the following words.
-- Blazor - The obvious, since we're completely focusing on Blazor application.
-- Aid (ade) - Helping, or aiding, in Blazor application development.
-- Parade - Celebrating, or parading, Blazor and Blazor application development.
+- **Blazor** - The obvious, since we're completely focusing on Blazor application.
+- **Aid (ade)** - Helping, or aiding, in Blazor application development.
+- **Parade** - Celebrating, or parading, Blazor and Blazor application development.
 
 Some might also find similarities with a certain beverage, implying an energy boost and fuel for Blazor application development.
 
