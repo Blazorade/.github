@@ -11,6 +11,15 @@ The name **Blazorade** is a [blend word](https://en.wikipedia.org/wiki/Blend_wor
 
 Some might also find similarities with a certain beverage, implying an energy boost and fuel for Blazor application development.
 
+## Available Libraries
+
+The following libraries are currently available both as source code and as Nuget packages.
+
+- **Blazorade Core** - A library that core functionality used by several other Blazorade libraries. Can also be used independently in your applications and libraries.
+- **Blazorade Bootstrap** - A library of Razor components that simplifies using [Bootstrap](https://getbootstrap.com/) in your Blazor applications.
+- **Blazorade Mermaid** - A library that makes it very easy to add [Mermaid](https://mermaid.js.org/) diagrams to your Blazor applications. Blazorade Mermaid is listed as a [community integration for Mermaid](https://mermaid.js.org/ecosystem/integrations-community.html#other).
+- **Blazorade Id** - A library that facilitates authentication and authorization in Blazor applications. This library is still in early development phases, but available for evaluation and feedback.
+
 ## Planned Libraries
 
 In addition to the public repositories found in the Blazorade organization on Github, the following libraries are in various early planning or development phases. If you have special interest in any of these, and maybe want to get involved in the development work, please don't hesitate to get in touch. Maybe that's just the nudge we need to get the development work going.
