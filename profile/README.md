@@ -28,3 +28,7 @@ In addition to the public repositories found in the Blazorade organization on Gi
 - **Blazorade ChartJS** - A library for adding charts to your Blazor application using [Chart.js](https://www.chartjs.org/), a popular JavaScript charting library.
 - **Blazorade HighlightJS** - A library for adding syntax highlighting to your Blazor application using [highlight.js](https://highlightjs.org/). Especially useful if your application renders source code in for instance blog or documentation sites.
 - **Blazorade Publisher** - A set of libraries for simple content management scenarios with Blazor applications are front-ends. The initial version is planned to focus on creating sites that are mainly documentational, and where the content is mainly [Markdown](https://en.wikipedia.org/wiki/Markdown) documents.
+
+## Contributing
+
+If you want to contribute to any of the Blazorade libraries, just send a pull request to any of the Blazorade repositories you want to contribute to. You can also send an issue or start a discussion in the repository you want to contribute to.
