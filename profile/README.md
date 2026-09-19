@@ -20,6 +20,10 @@ The following libraries are currently available both as source code and as Nuget
 - **Blazorade Mermaid** - A library that makes it very easy to add [Mermaid](https://mermaid.js.org/) diagrams to your Blazor applications. Blazorade Mermaid is listed as a [community integration for Mermaid](https://mermaid.js.org/ecosystem/integrations-community.html#other).
 - **Blazorade Id** - A library that facilitates authentication and authorization in Blazor applications. This library is still in early development phases, but available for evaluation and feedback.
 
+## Design Principles
+
+The [Blazorade design principles](/Blazorade/.github/blob/main/design-principles.md) describe the principles that all Blazorade libraries aim to follow when making Blazor application development easier.
+
 ## Planned Libraries
 
 In addition to the public repositories found in the Blazorade organization on Github, the following libraries are in various early planning or development phases. If you have special interest in any of these, and maybe want to get involved in the development work, please don't hesitate to get in touch. Maybe that's just the nudge we need to get the development work going.
