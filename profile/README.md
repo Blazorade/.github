@@ -22,7 +22,7 @@ The following libraries are currently available both as source code and as Nuget
 
 ## Design Principles
 
-The [Blazorade design principles](/Blazorade/.github/blob/main/design-principles.md) describe the principles that all Blazorade libraries aim to follow when making Blazor application development easier.
+The [Blazorade design principles](../design-principles.md) describe the principles that all Blazorade libraries aim to follow when making Blazor application development easier.
 
 ## Planned Libraries
 
